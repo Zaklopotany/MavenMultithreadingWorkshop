@@ -1,0 +1,2 @@
+# MavenMultithreadingWorkshop
+Dining Philosophers problem 
